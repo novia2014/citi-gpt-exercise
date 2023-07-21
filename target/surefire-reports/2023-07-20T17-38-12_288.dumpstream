@@ -1,0 +1,5 @@
+# Created at 2023-07-20T17:38:18.953
+Boot Manifest-JAR contains absolute paths in classpath 'D:\develop\项目\个人练习\citi-gpt-exercise\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
